@@ -10,5 +10,9 @@ COVID-19
 > Main Screen
 <img alt="Main Screen" src="Images/main.png" width="210" />
 
+> Maps Screen
+<img alt="Main Screen" src="Images/maps.png" width="210" />
+
+
 > About
 <img  alt="About Screen" src="Images/about.png" width="210" />
