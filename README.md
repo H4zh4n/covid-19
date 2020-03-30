@@ -2,10 +2,10 @@ COVID-19
 ------------
 > <img  alt="Logo" src="Images/logo.png" width="100" />
 
-> Version: 1.0.3 | min: Android 5.0 (SDK 21)
+> Version: 1.0.4 | min: Android 5.0 (SDK 21)
 
 **DOWNLOAD**
-> [COVID-19_v1.0.3.apk](https://github.com/H4zh4n/covid-19/releases)
+> [COVID-19_v1.0.4.apk](https://github.com/H4zh4n/covid-19/releases)
 
 > Main Screen
 <img alt="Main Screen" src="Images/main.png" width="210" />
