@@ -1,5 +1,5 @@
 {
 	"killSwitch":false,
-	"all":"https://corona.lmao.ninja/v2/all",
-	"country":"https://corona.lmao.ninja/v2/countries?sort=cases"
+	"all":"https://corona.lmao.ninja/v3/all",
+	"country":"https://corona.lmao.ninja/v3/countries?sort=cases"
 }
